@@ -9,12 +9,3 @@ The analysis provides insights into usage patterns, behavioral trends, and addic
 
 ![Social Media Addication Analysis](https://github.com/user-attachments/assets/6d6ffb9b-414b-436f-b1e1-95b55c981267)
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue in this repository.
-
